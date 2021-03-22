@@ -1,32 +1,34 @@
 # Scientific-Computing-with-Python
 Scientific Computing with Python course's assignments and projects.
 
-Chapter 1. Variables, expressions, and statements.
+Chapter 1. Introduction
 
-Chapter 2. Conditional execution
+Chapter 2. Variables, expressions, and statements.
 
-Chapter 3. Functions
+Chapter 3. Conditional execution
 
-Chapter 4. Iteration
+Chapter 4. Functions
 
-Chapter 5. Strings
+Chapter 5. Iteration
 
-Chapter 6. Files
+Chapter 6. Strings
 
-Chapter 7. Lists
+Chapter 7. Files
 
-Chapter 8. Dictionaries
+Chapter 8. Lists
 
-Chapter 9. Tuples
+Chapter 9. Dictionaries
 
-Chapter 10. Regular expressions
+Chapter 10. Tuples
 
-Chapter 11. Networked programs
+Chapter 11. Regular expressions
 
-Chapter 12. Using Web Services
+Chapter 12. Networked programs
 
-Chapter 13. Objected-oriented programming
+Chapter 13. Using Web Services
 
-Chapter 14. Using Databases and SQL
+Chapter 14. Objected-oriented programming
 
-Chapter 15. Visualizing data
+Chapter 15. Using Databases and SQL
+
+Chapter 16. Visualizing data
