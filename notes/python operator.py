@@ -16,7 +16,7 @@ Operator	Name	Example	Try it
 -	Subtraction	x - y	
 *	Multiplication	x * y	
 /	Division	x / y	
-%	Modulus	x % y	
+%	Modulus	x % y	 calculates the remainder of dividing two values
 **	Exponentiation	x ** y	
 //	Floor division	x // y	 the floor division // rounds the result down to the nearest whole number
 
